@@ -4665,6 +4665,7 @@ footer.main-footer{
 	color: var(--primary-color);
 	border-radius: 30px;
 	margin-left: 10px;
+	margin-bottom: 10px;
 	position: relative;
 	overflow: hidden;
 	z-index: 0;
