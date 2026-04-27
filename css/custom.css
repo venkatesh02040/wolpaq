@@ -296,7 +296,7 @@ a:focus{
 .section-title h3:before{
 	content: '';
 	display: block;
-	width: 12px;
+	width: 16px;
 	height: 16px;
 	position: absolute;
 	left: 0;
