@@ -1073,6 +1073,20 @@ header.main-header .header-sticky.active{
 	line-height: 0;
 }
 
+.ab-about-image{
+	position: relative;
+	background-size: 18% auto;
+	margin-right: 20px;
+}
+
+.ab-about-img-1{
+	display: inline-block;
+	width: 100%;
+	border-radius: 30px;
+	overflow: hidden;
+	line-height: 0;
+}
+
 .about-img-2{
 	width: 50%;
 	border-radius: 30px;
@@ -1336,6 +1350,7 @@ header.main-header .header-sticky.active{
 .service-item .service-image figure img{
 	width: 100%;
 	transition: all 0.5s ease-out;
+	height: 400px;
 }
 
 .service-item:hover .service-image figure img{
@@ -4135,7 +4150,7 @@ footer.main-footer{
 	display: block;
 	height: 16px;
 	width: 16px;
-	background: url(../images/icon-solor.svg) no-repeat left center;
+	background: url(../images/icon-sub-heading.svg) no-repeat left center;
 	position: absolute;
 	top: 20px;
 	left: 0;
